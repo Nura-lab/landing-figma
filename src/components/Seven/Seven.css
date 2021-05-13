@@ -1,0 +1,40 @@
+.blog {
+    display: flex;
+    flex-direction: column;
+    height: 865px;
+}
+
+.blogA {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 104px;
+    color: #3D4F9F;
+}
+
+.titleCC {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+
+}
+
+.titleCA {
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.blogB {
+    width: 958px;
+    height: 394px;
+    padding-top: 92px;
+    margin-bottom: 213px;
+    }

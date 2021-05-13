@@ -1,0 +1,135 @@
+.help {
+    width: 1440px;
+    height: 964px;
+    background: #FFFFFF;
+}
+
+.help0 {
+    width: 311px;
+    height: 62px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 176px;
+    margin-left: 564px;
+    margin-right: 565px;
+}
+
+.help01 {
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 12px;
+    color: #3D4F9F;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.help02 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    color: #3D4F9F;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+
+.help1 {
+    display: flex;
+    flex-direction: row;
+    width: 501px;
+    height: 45px;
+    margin-left: 372px;
+    padding-top: 68px
+}
+
+.help11 {
+    width: 14px;
+    height: 7px;
+   
+}
+
+.help12 {
+    width: 463px;
+    height: 45px;
+    color: #8E96B7;
+    padding-left: 24px;
+}
+
+.help2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 32px;
+    margin-left: 372px;
+}
+
+.help22 {
+    width: 463px;
+    height: 45px;
+
+}
+
+.help23 {
+    color: #8E96B7;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    padding-left: 24px;
+}
+
+.help3 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 372px;
+    width: 501px;
+    height: 45px;
+}
+
+.help32 {
+    width: 463px;
+    height: 45px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 19px;
+    align-items: center;
+    letter-spacing: 0.03em;
+    color: #495274;
+}
+
+.help33 {
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+
+.help34 {
+    width: 391px;
+    height: 62px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 27px;
+    letter-spacing: 0.03em;
+    color: #8D96BD;
+    padding-left: 428px;
+    margin-top: 16px;
+}
+
+.help35 {
+    width: 195px;
+height: 43px;
+background: #E8ECF4;
+border-radius: 2px;
+margin-top: 21px;
+}

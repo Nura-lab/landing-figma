@@ -1,0 +1,101 @@
+.ten {
+    width: 1440px;
+    height: 447px;
+    background-color: linear-
+    gradient(229.32deg, #6888FF 
+    12.77%, #5E80FF 73.11%);
+    background-color: #6888FF
+    ;
+}
+
+.ten1 {
+    width: 712px;
+    height: 194px;
+    padding-top: 91px;
+    margin-left: 364px;
+
+}
+
+.ten2 {
+    font-family: Roboto;
+    color: #FFFFFF;
+    padding-bottom: 16px;
+}
+
+.ten3 {
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-bottom: 28px;
+}
+
+.ten4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    padding-bottom: 28px;
+}
+
+.ten5 {
+    display: flex;
+    flex-direction: row;
+    padding-top: 28px;
+    padding-left: 200px;
+
+}
+
+.ten6 {
+    width: 130.08px;
+    height: 43px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 15px #6480E8;
+    border-radius: 2px;
+    
+}
+
+.ten7 {
+    width: 96px;
+    height: 17px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    color: #565F82;
+    padding-top: 13px;
+    padding-left: 17px;
+    padding-right: 17.08px;
+}
+
+.ten8 {
+    width: 155px;
+    height: 43px;
+    border: 1px solid #A0B4FF;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.ten9 {
+    width: 138px;
+    height: 17px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    /* font-size: 13px; */
+    line-height: 16px;
+    text-align: center;
+    color: #C7D3FF;
+    padding-top: 13px;
+    padding-left: 7.92px;
+}
